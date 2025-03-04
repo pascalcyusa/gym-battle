@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>create3_control</name>
+  <name>gym-battle</name>
   <version>0.0.1</version>
   <description>Create 3 control package using ROS 2 and Airtable</description>
   <maintainer email="shyakaadolf@gmail.com.com">Pascal</maintainer>

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(create3_control)
+project(gym-battle)
 
 find_package(ament_cmake REQUIRED)
 find_package(rclpy REQUIRED)
